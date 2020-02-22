@@ -20,7 +20,7 @@ my instagram @tuf_unkn0wn
 ![](tools/screenshot7.png)
 # install
 
-* `git clone https://github.com/unkn0wnh4ckr/hackers-tool-kit`
+* `https://github.com/pratannaimjoi/hackers-tool-kit`
 
 * `cd hackers-tool-kit`
 
